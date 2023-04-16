@@ -1,4 +1,4 @@
-<p align="center">コップには何も満たされていなかった</p>
+<p align="center">コップには何も満たされていなかった</p>Cancel changes
 <p align="center">だからこそ、俺たちはその器を満たそうとした</p>
 <p align="center">空の器を満たす様な芸術――</p>
 <p align="center">それがすべてだった</p>
@@ -7,5 +7,5 @@
 <h1></h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryaochengfeng&show_icons=true" alt="GitHub stats">
+  [<img src="https://github-readme-stats.vercel.app/api?username=Ryaochengfeng&show_icons=true" alt="GitHub stats">](https://github-readme-stats.vercel.app/api?username=ryaochengfeng&show_icons=true&count_private=true)
 </p>
